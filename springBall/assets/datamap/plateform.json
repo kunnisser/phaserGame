@@ -1,0 +1,20 @@
+{"frames": {
+
+"plateform.png":
+{
+	"frame": {"x":2,"y":2,"w":558,"h":329},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":558,"h":329},
+	"sourceSize": {"w":558,"h":329}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "./graphics/plateforms.png",
+	"format": "RGBA8888",
+	"size": {"w":562,"h":333},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:6a05252c1236f4bc4faff73b13e6bee7$"
+}
+}

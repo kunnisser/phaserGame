@@ -1,0 +1,35 @@
+{"frames": {
+
+  "Preloader_Background0000":
+  {
+    "frame": {"x":1,"y":1,"w":640,"h":830},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":640,"h":830},
+    "sourceSize": {"w":640,"h":830}
+  },
+  "Preloader_Inner0000":
+  {
+    "frame": {"x":642,"y":263,"w":188,"h":244},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":188,"h":244},
+    "sourceSize": {"w":188,"h":244}
+  },
+  "Preloader_Outer0000":
+  {
+    "frame": {"x":642,"y":1,"w":205,"h":261},
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": {"x":0,"y":0,"w":205,"h":261},
+    "sourceSize": {"w":205,"h":261}
+  }},
+  "meta": {
+    "app": "Adobe Flash Professional",
+    "version": "13.0.1.808",
+    "image": "./graphics/preloader.png",
+    "format": "RGBA8888",
+    "size": {"w":1024,"h":1024},
+    "scale": "1"
+  }
+}

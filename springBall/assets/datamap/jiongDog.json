@@ -1,0 +1,44 @@
+{"frames": {
+
+"dog1.png":
+{
+	"frame": {"x":2,"y":2,"w":216,"h":270},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":270},
+	"sourceSize": {"w":216,"h":270}
+},
+"dog2.png":
+{
+	"frame": {"x":220,"y":2,"w":216,"h":270},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":270},
+	"sourceSize": {"w":216,"h":270}
+},
+"dog3.png":
+{
+	"frame": {"x":438,"y":2,"w":216,"h":270},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":270},
+	"sourceSize": {"w":216,"h":270}
+},
+"dog4.png":
+{
+	"frame": {"x":656,"y":2,"w":216,"h":270},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":216,"h":270},
+	"sourceSize": {"w":216,"h":270}
+}},
+"meta": {
+	"app": "http://www.texturepacker.com",
+	"version": "1.0",
+	"image": "./graphics/jiongDog.png",
+	"format": "RGBA8888",
+	"size": {"w":874,"h":274},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:846dc7b64f96cf7d3a39c9d8c2e3f819$"
+}
+}
