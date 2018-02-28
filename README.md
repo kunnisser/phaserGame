@@ -2,7 +2,7 @@
 -------------
 
 > 关于kunnisser，欢迎关注  
-  在线预览：http://yizhandi.applinzi.com/candy/springBall/
+  在线预览：http://kuni.applinzi.com/springBall/
 
 ### 开发环境
 webpack + phaser-no-physics + es6
